@@ -37,7 +37,7 @@ function hamburgerShow () {
 hamburgerShow ();
 
 
-new Swiper ('.swiper-container',{                                                         
+new Swiper ('.swiper',{                                                         
     effect:'coverflow',                                                         
     autoplay:{                                                         
         delay:2000,                                                         
